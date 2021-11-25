@@ -19,3 +19,5 @@
 1. [17 Killer Websites for Web Developers](https://javascript.plainenglish.io/17-killer-websites-for-web-developers-13e1e30345b8)
 
 
+### Cheatsheets
+1. [Rico's cheatsheets](https://devhints.io/)
